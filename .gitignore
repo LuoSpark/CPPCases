@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+/STL/Debug
+/STL/*.ncb
+/STL/*.suo
